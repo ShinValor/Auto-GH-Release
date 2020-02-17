@@ -1,5 +1,3 @@
-# Git-Automation
-
 ## Git-Release-Note-Automation
 
 Implement automatically creating and updating the Release Notes in GitHub so that they do not have to be done manually every time for each GitHub repository when a build is released.
