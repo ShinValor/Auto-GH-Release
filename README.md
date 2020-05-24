@@ -1,11 +1,11 @@
-## Git-Release-Note-Automation
+## Auto-Git-Release
 
-Implement automatically creating and updating the Release Notes in GitHub so that they do not have to be done manually every time for each GitHub repository when a build is released.
+Automatically create and update release notes in your GitHub repository.
 
 ### Set up
 
 1) [Create](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line) Github Developer API key<br/>
-3) Type your release-note in release.md using markdown syntax<br/>
+3) Type your release note in release.md using markdown syntax<br/>
 
 ### Usage
 
