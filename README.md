@@ -1,4 +1,4 @@
-## Auto-Git-Release
+## Auto-GH-Release
 
 Automatically create and update release notes in your GitHub repository.
 
