@@ -11,7 +11,7 @@ COMMAND=""
 NOTE=""
 
 print_usage() {
-    echo "$PACKAGE - Automating release note in Git."
+    echo "$PACKAGE - Automating release note in GitHub repository."
     echo " "
     echo "SYNOPSIS:"
     echo "       ./run.sh [options]"
